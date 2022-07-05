@@ -1,0 +1,137 @@
+@font-face {
+    font-family: "freelancer-icon";
+    src: url("./../font/freelancer/freelancer-icon.eot");
+    src: url("./../font/freelancer/freelancer-icon.eot#iefix") format("embedded-opentype"), url("./../font/freelancer/freelancer-icon.woff2") format("woff2"), url("./../font/freelancer/freelancer-icon.woff") format("woff"),
+        url("./../font/freelancer/freelancer-icon.ttf") format("truetype"), url("./../font/freelancer/freelancer-icon.svg#freelancer-icon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+    @font-face {
+        font-family: "freelancer-icon";
+        src: url("./freelancer-icon.svg#freelancer-icon") format("svg");
+    }
+}
+
+.fimanager:before {
+    display: inline-block;
+    font-family: "freelancer-icon";
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    line-height: 1;
+    text-decoration: inherit;
+    text-rendering: optimizeLegibility;
+    text-transform: none;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+    display: block;
+}
+
+.flcr-001-accounting:before {
+    content: "\f100";
+}
+.flcr-002-accounting:before {
+    content: "\f101";
+}
+.flcr-003-administrative:before {
+    content: "\f102";
+}
+.flcr-004-accounting:before {
+    content: "\f103";
+}
+.flcr-005-blueprint:before {
+    content: "\f104";
+}
+.flcr-006-accounting:before {
+    content: "\f105";
+}
+.flcr-007-data:before {
+    content: "\f106";
+}
+.flcr-008-file:before {
+    content: "\f107";
+}
+.flcr-009-deadline:before {
+    content: "\f108";
+}
+.flcr-010-graphic-design:before {
+    content: "\f109";
+}
+.flcr-011-desk:before {
+    content: "\f10a";
+}
+.flcr-012-file:before {
+    content: "\f10b";
+}
+.flcr-013-settings:before {
+    content: "\f10c";
+}
+.flcr-014-freelance:before {
+    content: "\f10d";
+}
+.flcr-015-engineer:before {
+    content: "\f10e";
+}
+.flcr-016-graphic-designer:before {
+    content: "\f10f";
+}
+.flcr-017-curriculum-vitae:before {
+    content: "\f110";
+}
+.flcr-018-hiring:before {
+    content: "\f111";
+}
+.flcr-019-laptop:before {
+    content: "\f112";
+}
+.flcr-020-conveyor:before {
+    content: "\f113";
+}
+.flcr-021-advertising:before {
+    content: "\f114";
+}
+.flcr-022-trolley:before {
+    content: "\f115";
+}
+.flcr-023-clipboard:before {
+    content: "\f116";
+}
+.flcr-024-invoice:before {
+    content: "\f117";
+}
+.flcr-025-resume:before {
+    content: "\f118";
+}
+.flcr-026-shopping-bag:before {
+    content: "\f119";
+}
+.flcr-027-calendar:before {
+    content: "\f11a";
+}
+.flcr-028-delivery-man:before {
+    content: "\f11b";
+}
+.flcr-029-graphic-tablet:before {
+    content: "\f11c";
+}
+.flcr-030-time-management:before {
+    content: "\f11d";
+}
+.flcr-031-translation:before {
+    content: "\f11e";
+}
+.flcr-032-web-design:before {
+    content: "\f11f";
+}
+.flcr-033-web-design:before {
+    content: "\f120";
+}
+.flcr-034-freelance:before {
+    content: "\f121";
+}
+.flcr-035-web-design:before {
+    content: "\f122";
+}

@@ -1,0 +1,122 @@
+@font-face {
+    font-family: "furniture-icon";
+    src: url("./../font/furniture/furniture-icon.eot");
+    src: url("./../font/furniture/furniture-icon.eot#iefix") format("embedded-opentype"), url("./../font/furniture/furniture-icon.woff2") format("woff2"), url("./../font/furniture/furniture-icon.woff") format("woff"),
+        url("./../font/furniture/furniture-icon.ttf") format("truetype"), url("./../font/furniture/furniture-icon.svg#furniture-icon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+    @font-face {
+        font-family: "furniture-icon";
+        src: url("./furniture-icon.svg#furniture-icon") format("svg");
+    }
+}
+
+.fimanager:before {
+    display: inline-block;
+    font-family: "furniture-icon";
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    line-height: 1;
+    text-decoration: inherit;
+    text-rendering: optimizeLegibility;
+    text-transform: none;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+    display: block;
+}
+
+.frn-001-air-conditioner:before {
+    content: "\f100";
+}
+.frn-002-board:before {
+    content: "\f101";
+}
+.frn-003-bookcase:before {
+    content: "\f102";
+}
+.frn-004-cabinet:before {
+    content: "\f103";
+}
+.frn-005-certificate:before {
+    content: "\f104";
+}
+.frn-006-chaise-longue:before {
+    content: "\f105";
+}
+.frn-007-chest-of-drawers:before {
+    content: "\f106";
+}
+.frn-008-clock:before {
+    content: "\f107";
+}
+.frn-009-coat-hanger:before {
+    content: "\f108";
+}
+.frn-010-coffee-table:before {
+    content: "\f109";
+}
+.frn-011-computer:before {
+    content: "\f10a";
+}
+.frn-012-room:before {
+    content: "\f10b";
+}
+.frn-013-desk:before {
+    content: "\f10c";
+}
+.frn-014-file-cabinet:before {
+    content: "\f10d";
+}
+.frn-015-fish-tank:before {
+    content: "\f10e";
+}
+.frn-016-flower-pot:before {
+    content: "\f10f";
+}
+.frn-017-locker:before {
+    content: "\f110";
+}
+.frn-018-office-chair:before {
+    content: "\f111";
+}
+.frn-019-office-table:before {
+    content: "\f112";
+}
+.frn-020-office:before {
+    content: "\f113";
+}
+.frn-021-ping-pong:before {
+    content: "\f114";
+}
+.frn-022-recycle-bin:before {
+    content: "\f115";
+}
+.frn-023-shelves:before {
+    content: "\f116";
+}
+.frn-024-sink:before {
+    content: "\f117";
+}
+.frn-025-sofa:before {
+    content: "\f118";
+}
+.frn-026-stool:before {
+    content: "\f119";
+}
+.frn-027-storage-box:before {
+    content: "\f11a";
+}
+.frn-028-vault:before {
+    content: "\f11b";
+}
+.frn-029-wardrobe:before {
+    content: "\f11c";
+}
+.frn-030-water-cooler:before {
+    content: "\f11d";
+}
